@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cidade>
+  <local>
+    <icone>🏥</icone>
+    <nome>Hospital</nome>
+    <descricao>Sistemas que cuidam das informações de quem cuida de você.</descricao>
+    <recurso>Prontuários digitais</recurso>
+    <recurso>Agendamento de consultas</recurso>
+    <recurso>Telemedicina</recurso>
+    <tecnologia>Banco de dados + Web</tecnologia>
+    <imagem>hospital.jpg</imagem>
+  </local>
+  <local>
+    <icone>🏥</icone>
+    <nome>Hospital</nome>
+    <descricao>Sistemas que cuidam das informações de quem cuida de você.</descricao>
+    <recurso>Prontuários digitais</recurso>
+    <recurso>Agendamento de consultas</recurso>
+    <recurso>Telemedicina</recurso>
+    <tecnologia>Banco de dados + Web</tecnologia>
+    <imagem>hospital.jpg</imagem>
+  </local>
+  <local>
+    <icone>🚦</icone>
+    <nome>Sistema de Trânsito</nome>
+    <descricao>Sensores e software que fazem a cidade fluir.</descricao>
+    <recurso>Semáforos inteligentes</recurso>
+    <recurso>Monitoramento por câmeras</recurso>
+    <recurso>Apps de rotas em tempo real</recurso>
+    <tecnologia>IoT + Análise de dados</tecnologia>
+    <imagem>transito.jpg</imagem>
+  </local>
+  <local>
+    <icone>🎮</icone>
+    <nome>Game Studio</nome>
+    <descricao>Onde lógica e criatividade viram mundos jogáveis.</descricao>
+    <recurso>Motor Unity</recurso>
+    <recurso>Programação em C#</recurso>
+    <recurso>Física e inteligência dos personagens</recurso>
+    <tecnologia>Unity + C#</tecnologia>
+    <imagem>game-studio.jpg</imagem>
+  </local>
+  <local>
+    <icone>🏦</icone>
+    <nome>Banco</nome>
+    <descricao>Dinheiro digital exige software rápido e seguro.</descricao>
+    <recurso>Aplicativos bancários</recurso>
+    <recurso>Pix e pagamentos</recurso>
+    <recurso>Criptografia e antifraude</recurso>
+    <tecnologia>Mobile + Segurança</tecnologia>
+    <imagem>banco.jpg</imagem>
+  </local>
+</cidade>

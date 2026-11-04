@@ -1,0 +1,347 @@
+{
+  "profissoes": [
+    {
+      "id": "dev-web",
+      "icone": "💻",
+      "titulo": "Desenvolvedor Web",
+      "descricao": "Cria sites e sistemas online, do visual na tela até o servidor que guarda os dados.",
+      "tecnologias": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "imagem": "dev-web.svg",
+      "detalhes": {
+        "sobre": [
+          "O desenvolvedor web cria tudo o que você usa dentro do navegador: sites de escola, lojas online, redes sociais, sistemas de banco e até aplicativos que funcionam pela internet.",
+          "O trabalho tem duas metades. O front-end é a parte que você vê e clica (layout, botões, animações), feita com HTML, CSS e JavaScript. O back-end é a parte escondida no servidor, que guarda dados, confere logins e responde aos pedidos do front-end, com linguagens como PHP, Node.js ou Python. Quem domina as duas metades é chamado de full stack."
+        ],
+        "dia_a_dia": [
+          "Transforma o desenho de uma tela, feito pelo designer, em uma página de verdade",
+          "Cria formulários, logins e carrinhos de compra",
+          "Conecta o site a um banco de dados",
+          "Corrige erros (bugs) e deixa o site rápido e seguro",
+          "Trabalha em equipe usando Git e GitHub"
+        ],
+        "tempo": {
+          "resumo": "De cerca de 3 meses (estudo intenso, em tempo integral) a mais de 2 anos (estudo casual, poucas horas por semana). Um curso intensivo (bootcamp) costuma levar de 5 a 6 meses.",
+          "etapas": [
+            {
+              "fase": "HTML e CSS básicos",
+              "prazo": "poucas semanas"
+            },
+            {
+              "fase": "JavaScript e lógica de programação",
+              "prazo": "2 a 3 meses"
+            },
+            {
+              "fase": "Back-end e banco de dados (ex.: PHP + SQL)",
+              "prazo": "2 a 3 meses"
+            },
+            {
+              "fase": "Projetos próprios e portfólio no GitHub",
+              "prazo": "contínuo"
+            }
+          ],
+          "aviso": "As etapas são uma estimativa do grupo, dividida a partir das faixas de tempo das fontes abaixo.",
+          "fontes": [
+            {
+              "nome": "Noble Desktop (2026)",
+              "info": "Estima de 3 meses de estudo intenso em tempo integral até mais de 2 anos de estudo casual, e diz que a constância vale mais que a intensidade.",
+              "url": "https://blog.nobledesktop.com/how-long-to-learn-web-development"
+            },
+            {
+              "nome": "Career Karma",
+              "info": "Aponta de 5 a 6 meses de curso intensivo e cerca de 1 ano até conseguir o primeiro emprego na área.",
+              "url": "https://careerkarma.com/blog/how-long-it-takes-to-become-a-web-developer/"
+            }
+          ]
+        },
+        "primeiros_passos": [
+          "Aprenda HTML e CSS e monte uma página sobre você",
+          "Pratique lógica de programação com JavaScript",
+          "Crie um projeto pequeno, como uma lista de tarefas",
+          "Guarde seus projetos no GitHub para formar um portfólio"
+        ],
+        "curiosidade": "O site que você está vendo foi feito com PHP, HTML, CSS e um pouco de JavaScript. Isso já é trabalho de desenvolvedor web."
+      }
+    },
+    {
+      "id": "dev-web",
+      "icone": "💻",
+      "titulo": "Desenvolvedor Web",
+      "descricao": "Cria sites e sistemas online, do visual na tela até o servidor que guarda os dados.",
+      "tecnologias": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "imagem": "dev-web.svg",
+      "detalhes": {
+        "sobre": [
+          "O desenvolvedor web cria tudo o que você usa dentro do navegador: sites de escola, lojas online, redes sociais, sistemas de banco e até aplicativos que funcionam pela internet.",
+          "O trabalho tem duas metades. O front-end é a parte que você vê e clica (layout, botões, animações), feita com HTML, CSS e JavaScript. O back-end é a parte escondida no servidor, que guarda dados, confere logins e responde aos pedidos do front-end, com linguagens como PHP, Node.js ou Python. Quem domina as duas metades é chamado de full stack."
+        ],
+        "dia_a_dia": [
+          "Transforma o desenho de uma tela, feito pelo designer, em uma página de verdade",
+          "Cria formulários, logins e carrinhos de compra",
+          "Conecta o site a um banco de dados",
+          "Corrige erros (bugs) e deixa o site rápido e seguro",
+          "Trabalha em equipe usando Git e GitHub"
+        ],
+        "tempo": {
+          "resumo": "De cerca de 3 meses (estudo intenso, em tempo integral) a mais de 2 anos (estudo casual, poucas horas por semana). Um curso intensivo (bootcamp) costuma levar de 5 a 6 meses.",
+          "etapas": [
+            {
+              "fase": "HTML e CSS básicos",
+              "prazo": "poucas semanas"
+            },
+            {
+              "fase": "JavaScript e lógica de programação",
+              "prazo": "2 a 3 meses"
+            },
+            {
+              "fase": "Back-end e banco de dados (ex.: PHP + SQL)",
+              "prazo": "2 a 3 meses"
+            },
+            {
+              "fase": "Projetos próprios e portfólio no GitHub",
+              "prazo": "contínuo"
+            }
+          ],
+          "aviso": "As etapas são uma estimativa do grupo, dividida a partir das faixas de tempo das fontes abaixo.",
+          "fontes": [
+            {
+              "nome": "Noble Desktop (2026)",
+              "info": "Estima de 3 meses de estudo intenso em tempo integral até mais de 2 anos de estudo casual, e diz que a constância vale mais que a intensidade.",
+              "url": "https://blog.nobledesktop.com/how-long-to-learn-web-development"
+            },
+            {
+              "nome": "Career Karma",
+              "info": "Aponta de 5 a 6 meses de curso intensivo e cerca de 1 ano até conseguir o primeiro emprego na área.",
+              "url": "https://careerkarma.com/blog/how-long-it-takes-to-become-a-web-developer/"
+            }
+          ]
+        },
+        "primeiros_passos": [
+          "Aprenda HTML e CSS e monte uma página sobre você",
+          "Pratique lógica de programação com JavaScript",
+          "Crie um projeto pequeno, como uma lista de tarefas",
+          "Guarde seus projetos no GitHub para formar um portfólio"
+        ],
+        "curiosidade": "O site que você está vendo foi feito com PHP, HTML, CSS e um pouco de JavaScript. Isso já é trabalho de desenvolvedor web."
+      }
+    },
+    
+    {
+      "id": "game-dev",
+      "icone": "🎮",
+      "titulo": "Game Developer",
+      "descricao": "Programa mecânicas, fases e personagens para transformar ideias em jogos.",
+      "tecnologias": [
+        "Unity",
+        "C#",
+        "Unreal",
+        "Blender"
+      ],
+      "imagem": "game-dev.svg",
+      "detalhes": {
+        "sobre": [
+          "O game developer transforma ideias em jogos para computador, console e celular. Ele programa o que acontece quando você aperta um botão: o personagem pula, o inimigo persegue, a pontuação sobe.",
+          "Para isso, usa uma engine, que é um programa com as ferramentas básicas de um jogo (física, som, gráficos). As mais conhecidas são a Unity, que usa a linguagem C#, e a Unreal Engine. Nos estúdios, quem programa trabalha junto com artistas, roteiristas e designers de jogo."
+        ],
+        "dia_a_dia": [
+          "Programa as regras do jogo: movimento, combate, pontuação e fases",
+          "Usa a engine para montar cenários e colocar personagens",
+          "Testa o jogo e corrige erros (bugs)",
+          "Otimiza o jogo para rodar bem em celulares e consoles",
+          "Trabalha em equipe com artistas e designers"
+        ],
+        "tempo": {
+          "resumo": "Entre 2 e 6 meses para criar um primeiro jogo simples, dependendo do ritmo de estudo. Dominar a área de verdade leva anos.",
+          "etapas": [
+            {
+              "fase": "Lógica de programação e C#",
+              "prazo": "1 a 2 meses"
+            },
+            {
+              "fase": "Fundamentos da Unity (cenas, objetos, física)",
+              "prazo": "1 a 2 meses"
+            },
+            {
+              "fase": "Primeiro jogo pequeno, como um jogo de plataforma 2D",
+              "prazo": "1 a 2 meses"
+            },
+            {
+              "fase": "Jogos maiores e trabalho em equipe",
+              "prazo": "contínuo"
+            }
+          ],
+          "aviso": "Para jogos não existe um curso padrão como nas outras áreas. Por isso as fontes são guias e comunidades de desenvolvedores, e os prazos variam mais. As etapas são uma estimativa do grupo.",
+          "fontes": [
+            {
+              "nome": "TechNeeds (2025)",
+              "info": "Calcula de 1 a 3 meses para os fundamentos da engine e do C#, estudando algumas horas por semana.",
+              "url": "https://www.techneeds.com/2025/08/12/how-long-does-it-take-to-learn-unity-a-structured-path/"
+            },
+            {
+              "nome": "TechNeeds (2026)",
+              "info": "Indica de 3 a 6 meses para quem já tem a base e quer desenvolver jogos simples.",
+              "url": "https://www.techneeds.com/2026/01/01/how-long-to-learn-unity-a-step-by-step-guide-for-hr-managers/"
+            },
+            {
+              "nome": "Fórum Unity Discussions",
+              "info": "Um usuário sugere de 2 a 3 meses de aprendizado, em ritmo tranquilo, para fazer um jogo básico 2D ou 3D.",
+              "url": "https://discussions.unity.com/t/learning-path-of-unity/328735"
+            }
+          ]
+        },
+        "primeiros_passos": [
+          "Faça os tutoriais iniciais do Unity Learn, que é gratuito",
+          "Aprenda o básico de C#",
+          "Crie um jogo bem pequeno e termine ele",
+          "Só depois parta para ideias maiores"
+        ],
+        "curiosidade": "Terminar um jogo pequeno ensina mais do que começar um gigante. Quase todo desenvolvedor faz primeiro um jogo simples antes dos grandes projetos."
+      }
+    },
+    {
+      "id": "seguranca",
+      "icone": "🛡️",
+      "titulo": "Analista de Segurança",
+      "descricao": "Protege sistemas e dados contra ataques, encontrando falhas antes dos invasores.",
+      "tecnologias": [
+        "Redes",
+        "Criptografia",
+        "Linux",
+        "Pentest"
+      ],
+      "imagem": "seguranca.svg",
+      "detalhes": {
+        "sobre": [
+          "O analista de segurança protege sistemas, redes e dados contra ataques. Pense nele como o vigia de um prédio digital: observa o que entra e sai, encontra portas destrancadas e age rápido quando algo suspeito acontece.",
+          "O trabalho mistura prevenção (corrigir falhas antes que alguém as explore) e resposta (investigar e conter um incidente). Ferramentas de monitoramento, chamadas SIEM, reúnem os alertas de vários sistemas em um só lugar para o analista identificar ameaças."
+        ],
+        "dia_a_dia": [
+          "Monitora alertas de segurança dos sistemas da empresa",
+          "Procura falhas (vulnerabilidades) em sistemas e redes",
+          "Investiga e responde a incidentes",
+          "Ensina as pessoas a evitar golpes, como o phishing",
+          "Escreve relatórios do que aconteceu e de como evitar de novo"
+        ],
+        "tempo": {
+          "resumo": "Cerca de 6 meses para uma formação inicial, estudando 7 horas por semana, segundo o certificado de cibersegurança do Google, que não exige experiência prévia.",
+          "etapas": [
+            {
+              "fase": "Fundamentos de segurança, riscos e ameaças",
+              "prazo": "1 a 2 meses"
+            },
+            {
+              "fase": "Redes e Linux",
+              "prazo": "1 a 2 meses"
+            },
+            {
+              "fase": "Python e SQL aplicados à segurança",
+              "prazo": "1 a 2 meses"
+            },
+            {
+              "fase": "Ferramentas SIEM e resposta a incidentes",
+              "prazo": "1 a 2 meses"
+            }
+          ],
+          "aviso": "As etapas são uma estimativa do grupo, dividida a partir dos 6 meses informados pelo curso. Depois dele, muita gente estuda mais para certificações como a CompTIA Security+.",
+          "fontes": [
+            {
+              "nome": "Google Cybersecurity Certificate (Coursera)",
+              "info": "Programa para iniciantes, sem experiência prévia, com 6 meses de duração a 7 horas por semana. Ensina Python, Linux e SQL na prática.",
+              "url": "https://www.coursera.org/google-certificates/google-cybersecurity"
+            },
+            {
+              "nome": "CSO Online",
+              "info": "Informa que o certificado prepara para vagas iniciais em menos de seis meses e ajuda a se preparar para a prova Security+.",
+              "url": "https://www.csoonline.com/article/575233/google-launches-entry-level-cybersecurity-certificate-to-teach-threat-detection-skills.html"
+            }
+          ]
+        },
+        "primeiros_passos": [
+          "Entenda como funcionam a internet e as redes",
+          "Pratique comandos básicos de Linux",
+          "Conheça os golpes mais comuns, como phishing e senhas fracas",
+          "Treine apenas em laboratórios e ambientes de estudo: testar sistemas dos outros sem autorização é crime"
+        ],
+        "curiosidade": "Um dos ataques mais comuns nem é sofisticado: o phishing é uma mensagem falsa que engana a pessoa para ela entregar a própria senha."
+      }
+    },
+    {
+      "id": "ia",
+      "icone": "🤖",
+      "titulo": "Desenvolvedor de IA",
+      "descricao": "Treina modelos que reconhecem padrões, conversam e ajudam a tomar decisões.",
+      "tecnologias": [
+        "Python",
+        "TensorFlow",
+        "Pandas",
+        "Machine Learning"
+      ],
+      "imagem": "ia.svg",
+      "detalhes": {
+        "sobre": [
+          "O desenvolvedor de IA cria programas que aprendem com dados, em vez de seguir apenas regras escritas à mão. É assim que funcionam as recomendações de vídeos, o reconhecimento de rostos, os tradutores automáticos e os assistentes que conversam com você.",
+          "O trabalho passa por reunir e limpar dados, escolher um modelo, treiná-lo com muitos exemplos e testar se ele acerta. Depois o modelo é colocado dentro de um sistema real. A linguagem mais usada é o Python, com bibliotecas como Pandas e TensorFlow."
+        ],
+        "dia_a_dia": [
+          "Prepara e limpa bases de dados",
+          "Treina e avalia modelos de aprendizado de máquina (machine learning)",
+          "Verifica se o modelo erra muito ou trata algum grupo de pessoas de forma injusta",
+          "Coloca o modelo para funcionar dentro de aplicativos e sites",
+          "Explica os resultados para quem não é da área"
+        ],
+        "tempo": {
+          "resumo": "Um curso introdutório de machine learning leva de 2 a 3 meses. Somando o básico de Python, a estimativa do grupo é de 6 meses a 1 ano para começar a fazer projetos próprios.",
+          "etapas": [
+            {
+              "fase": "Lógica de programação e Python básico",
+              "prazo": "1 a 2 meses"
+            },
+            {
+              "fase": "Curso introdutório de machine learning (cerca de 94 horas)",
+              "prazo": "2 a 3 meses"
+            },
+            {
+              "fase": "Projetos com dados reais (Pandas, TensorFlow)",
+              "prazo": "contínuo"
+            },
+            {
+              "fase": "Aprofundar em redes neurais e deep learning",
+              "prazo": "meses extras"
+            }
+          ],
+          "aviso": "O prazo do curso vem das fontes abaixo. O tempo de Python e o total de 6 meses a 1 ano são estimativas do grupo.",
+          "fontes": [
+            {
+              "nome": "DeepLearning.AI - Machine Learning Specialization",
+              "info": "Programa para iniciantes em 3 cursos. A 5 horas por semana, são 3, 4 e 3 semanas, e não exige matemática prévia nem programação avançada.",
+              "url": "https://learn.deeplearning.ai/specializations/machine-learning/information"
+            },
+            {
+              "nome": "TechRepublic (2022)",
+              "info": "Calcula cerca de 2 meses para concluir a mesma especialização, com aproximadamente 8 horas por semana.",
+              "url": "https://www.techrepublic.com/article/coursera-releases-machine-learning-course/"
+            }
+          ]
+        },
+        "primeiros_passos": [
+          "Aprenda Python básico",
+          "Faça um curso introdutório de machine learning para iniciantes",
+          "Use o Pandas para ler e organizar tabelas de dados",
+          "Treine um modelo simples com dados abertos"
+        ],
+        "curiosidade": "Um modelo de IA é tão bom quanto os dados com que aprendeu. Dados ruins ou desequilibrados geram respostas ruins ou injustas."
+      }
+    }
+  ]
+}
